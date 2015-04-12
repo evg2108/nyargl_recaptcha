@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = NyarglRecaptcha::VERSION
   s.authors     = %w(evg2108)
   s.email       = %w(evg2108@yandex.ru)
-  s.homepage    = 'https://github.com/evg2108'
+  s.homepage    = 'https://github.com/evg2108/nyargl_recaptcha'
   s.summary     = 'NyarglRecaptcha is a simple gem for integration Google reCAPTCHA v2.0 to your projects'
   s.description = 'NyarglRecaptcha is a simple gem for integration Google reCAPTCHA v2.0 to your projects'
   s.license     = 'MIT'
