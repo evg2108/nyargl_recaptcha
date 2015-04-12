@@ -72,4 +72,4 @@ and that's all
     this method returns `true` if captcha is valid, otherwise it returns `false`
 
 ## License
-This project rocks and uses MIT-LICENSE.
+This project rocks and uses [MIT-LICENSE](/evg2108/nyargl_recaptcha/blob/master/MIT-LICENSE).
