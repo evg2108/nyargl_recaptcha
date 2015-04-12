@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    nyargl_recaptcha (0.0.1)
+    nyargl_recaptcha (0.0.2)
       actionview
       activesupport
       railties
