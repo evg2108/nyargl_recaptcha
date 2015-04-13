@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/nyargl_recaptcha.svg)](http://badge.fury.io/rb/nyargl_recaptcha)
+
 # NyarglRecaptcha
 
 NyarglRecaptcha is a simple gem for integration Google reCAPTCHA v2.0 to your projects
